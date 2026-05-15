@@ -64,7 +64,7 @@
                     </td>
 
                     <td>
-                        @if($nota->conceito == 'C')
+                        @if($nota->conceito == 'C' && !$nota->resultado_final)
                         <a href="{{ route('notas.edit', $nota->id) }}"
                         class="btn btn-warning btn-sm">
                         Recuperação

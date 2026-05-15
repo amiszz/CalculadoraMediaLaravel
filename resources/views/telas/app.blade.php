@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sistema Escolar</title>
+    <title>Sistema de Notas</title>
 
     <!-- Bootstrap -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -19,7 +19,7 @@
 
                 <i class="bi bi-mortarboard-fill"></i>
 
-                GestãoEscolar
+                Gestão de Notas
 
             </a>
 
@@ -38,40 +38,37 @@
                 <ul class="navbar-nav ms-auto">
 
                     <li class="nav-item mx-2">
-
                         <a href="/turmas"
                         class="nav-link btn btn-dark text-white px-3">
-
                             <i class="bi bi-building"></i>
-
                             Turmas
-
                         </a>
 
                     </li>
 
                     <li class="nav-item mx-2">
-
                         <a href="/alunos"
                         class="nav-link btn btn-dark text-white px-3">
-
                             <i class="bi bi-people"></i>
-
                             Alunos
-
                         </a>
 
                     </li>
 
                     <li class="nav-item mx-2">
-
                         <a href="/notas"
                         class="nav-link btn btn-dark text-white px-3">
-
                             <i class="bi bi-journal-check"></i>
-
                             Notas
+                        </a>
 
+                    </li>
+
+                    <li class="nav-item mx-2">
+                        <a href="/relatorios"
+                        class="nav-link btn btn-dark text-white px-3">
+                            <i class="bi bi-bar-chart"></i>
+                            Relatórios
                         </a>
 
                     </li>
