@@ -4,7 +4,7 @@ Disciplina: Desenvolvimento de Aplicações Web II
 
 ## Objetivo
 
-O GestãoEscolar é uma aplicação web desenvolvida para auxiliar no gerenciamento acadêmico de turmas, alunos e notas escolares, permitindo o controle de médias, conceitos e recuperação de forma prática e organizada.
+O GestãoEscolar é uma aplicação web desenvolvida para auxiliar no gerenciamento acadêmico de turmas, alunos e notas escolares, permitindo o controle de médias, conceitos e recuperação.
 
 ## Funcionalidades
 
